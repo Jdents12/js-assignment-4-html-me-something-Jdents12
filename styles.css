@@ -1,1 +1,21 @@
-/* Write your CSS here! */
+body {
+    display:block;
+    margin: 8px;
+    padding: 4px;
+    
+}
+header {
+    color: red;
+}
+p {
+    background-color: darkgrey;
+}
+#BasicCombos {
+    background-color: yellow;
+}
+.funParagraph {
+    color: green;
+}
+#mainHeading {
+    color: red;
+}
